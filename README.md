@@ -36,6 +36,7 @@ Code and results will be added to the benchmarks/ folder as they are completed.
 This stage will focus on training the full model, tuning it, and evaluating performance using the official metrics.
 Final implementations will be placed in the final_model/ folder.
 
+```
 Repository Structure
 ├── eda/
 │   ├── eda_notebook.ipynb
@@ -62,4 +63,5 @@ Repository Structure
 │   └── ...
 │
 └── README.md
+```
 
