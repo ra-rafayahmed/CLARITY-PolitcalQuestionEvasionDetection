@@ -5,7 +5,7 @@ This repository documents Team d-ai-logue’s participation in the SemEval CLARI
 
 Our work progresses through three main stages:
 
-1. Exploratory Data Analysis (EDA)
+**1. Exploratory Data Analysis (EDA)**
 
 (Completed — Assignment 1)
 
@@ -26,12 +26,12 @@ All plots exported as PDFs inside the plots/ directory
 
 The EDA provides essential insight into the structure and limitations of the dataset.
 
-2. Benchmark Model Testing (upcoming)
+**2. Benchmark Model Testing (upcoming)**
 
 This stage will introduce baseline experiments and initial model comparisons.
 Code and results will be added to the benchmarks/ folder as they are completed.
 
-3. Final Model Selection, Training & Evaluation (upcoming)
+**3. Final Model Selection, Training & Evaluation (upcoming)**
 
 This stage will focus on training the full model, tuning it, and evaluating performance using the official metrics.
 Final implementations will be placed in the final_model/ folder.
