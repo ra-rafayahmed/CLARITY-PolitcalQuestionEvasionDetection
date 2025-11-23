@@ -1,4 +1,4 @@
-# CLARITY---Politcal-Question-Evasion-Detection
+# CLARITY - Politcal-Question-Evasion-Detection
 A research project by Team d-ai-logue focused on analyzing political interview transcripts using NLP to detect clarity, evasion, and communication patterns. The repository includes dataset exploration, label quality analysis, and modeling components for building a multimodal question–answer understanding system.
 
 This repository documents Team d-ai-logue’s participation in the SemEval CLARITY shared task, which focuses on detecting clarity, ambiguity, and evasive techniques in political interview question–answer pairs.
