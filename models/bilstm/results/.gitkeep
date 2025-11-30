@@ -1,0 +1,2 @@
+# This file ensures the results directory is tracked by git
+# Generated files (metrics.json, classification_report.txt, predictions.csv, confusion_matrix.png) will be created here during training and evaluation

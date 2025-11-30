@@ -1,0 +1,10 @@
+"""
+numpy
+torch
+datasets
+scikit-learn
+matplotlib
+seaborn
+
+# urllib and zipfile are standard library; no need to add
+"""
