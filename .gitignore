@@ -231,3 +231,4 @@ plots/*.svg
 
 # Keep PDFs (for reports), so do NOT ignore *.pdf
 models/roBERTa/saved_multitask_model/multitask_roberta/model.safetensors
+Assignment 3 - Finetuned Model/roBERTa/saved_multitask_model/multitask_roberta/model.safetensors
